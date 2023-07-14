@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+	<title>WelcomeCI</title>
 
 	<style type="text/css">
 
@@ -82,12 +82,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>Welcome to CodeIgniter!</h1>
 
 	<div id="body">
-		<p>The page you arth rhfghat is being generated dynamically by CodeIgniter.</p>
+		<p>cobaaja</p>
 
-		<p>If you would like tdsfsdfsdffsdfsdft this page you'll find it located at:</p>
+		<p>If you would like tdfgdfgdfgfdgt this page you'll find it located at:</p>
 		<code>applicadfgdfgdfgdfgdfgdfmesasdasdsge.php</code>
 
-		<p>The correspfgdfgdfgdfgge is found at:</p>
+		<p>ini_alter</p>
 		<code>application/controlldsfsdfphp</code>
 
 		<p>If you ardsfsdfssdfsdfsdhe very first time, you should start by reading the <a href="userguide3/">User Guide</a>.</p>
